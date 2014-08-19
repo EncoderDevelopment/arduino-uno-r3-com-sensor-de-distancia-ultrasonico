@@ -5,7 +5,7 @@ Programação básica do Arduíno Uno R3 e Sensor de Distância Ultrassônico
 
 Autor: Davi Roberto Andrade Vieira
 
-@ndrade
+Andrade
 
 Facebook: https://www.facebook.com/signa.roberto
 
