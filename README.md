@@ -10,3 +10,5 @@ Andrade
 Facebook: https://www.facebook.com/signa.roberto
 
 Email: signa.roberto@gmail.com
+
+Formação: Bacharel em Ciência da Computação
